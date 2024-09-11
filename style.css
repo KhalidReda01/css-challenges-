@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -123,4 +124,18 @@ body {
 .add-cart:hover {
   color: #000;
   background-color: #fff;
+}
+
+/* 
+
+
+*/
+img {
+  float: left;
+  margin-right: 40px;
+}
+.float1 {
+  background-color: green;
+  float: left;
+  width: 200px;
 }
