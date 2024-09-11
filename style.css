@@ -132,10 +132,32 @@ body {
 */
 img {
   float: left;
-  margin-right: 40px;
+  margin-right: 20px;
 }
 .float1 {
-  background-color: green;
   float: left;
-  width: 200px;
+  width: 215px;
+  margin-right: 20px;
+}
+.price {
+  float: left;
+}
+
+.shipping {
+  float: right;
+  margin-top: 10px;
+}
+.product-description {
+  float: right;
+}
+/* .shipping::after {
+  background-color: #2f6ee2;
+
+  content: "";
+  clear: both;
+  display: block;
+} */
+
+.float2 {
+  float: right;
 }
