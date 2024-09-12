@@ -125,3 +125,8 @@ body {
   color: #000;
   background-color: #fff;
 }
+
+.flex-container {
+  display: flex;
+  gap: 20px;
+}
